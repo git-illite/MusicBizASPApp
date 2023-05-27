@@ -8,10 +8,10 @@ https://aaaden1-wa-web524-a6.azurewebsites.net/
   <li>• A user with a Clerk role claim can add, edit, and delete a track.</li>
   <li>• All other kinds of authenticated users can read artist, album, and track data.</li>
   <li>• Anonymous users cannot work with artist, album, and track data</li>
-</ul>
+</ul><br>
 
-clerk@example.com:Password123!
-coord@example.com:Password123!
+clerk@example.com:Password123!<br>
+coord@example.com:Password123!<br>
 executive@example.com:Password123!
 
 
